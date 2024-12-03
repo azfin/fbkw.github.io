@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Freset-pass","\u002Fuser-waiting-list","\u002Fxac-thuc-email","\u002Fuser-approved-list","\u002Fdu-lieu-nganh","\u002Fdu-lieu-ttck","\u002F","\u002Flogin","\u002Fazu-inf","\u002Fget-golds","\u002Fdang-ky-tai-khoan","\u002Fdanh-muc-dau-tu-config","\u002Fdang-ky-san-pham","\u002Fdanh-muc-dau-tu"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
